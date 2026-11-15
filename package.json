@@ -1,0 +1,12 @@
+{
+  "name": "andyventurelab-ci-rescue-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dependency-free demonstration of truthful CI health checks",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
