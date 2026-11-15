@@ -1,5 +1,7 @@
 # CI Rescue Demo — Health-check failures should fail CI
 
+[![CI](https://github.com/AndyVentureLab/ci-rescue-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/AndyVentureLab/ci-rescue-demo/actions/workflows/ci.yml)
+
 A public, self-contained demonstration for our €89 CI Rescue Fix service. No paid customer or production environment is involved.
 
 ## Problem
